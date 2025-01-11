@@ -24,7 +24,7 @@ python3 LinPurge.py
 # Additional Information
 ```
 
-The script should be run with root privileges to clean certain files like /var/log or /etc/passwd
+The script should be run with root privileges to clean certain files like /var/log or /etc/passwd.
 ```
 ```
 
